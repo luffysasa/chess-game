@@ -1,0 +1,9 @@
+UserID: 2
+IsVisiable: true
+GoldenCoin: 400
+Rank: Gold-2100
+MailBox: [Hello Welcome to ThreeMusketeers,thanks,test message]
+Win: 50
+Lose: 20
+CurrentSkin: Default
+Skins: [a,Default]

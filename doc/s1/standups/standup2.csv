@@ -1,0 +1,5 @@
+Date, Sprint #, Standup #, Name, What did you work on since the last standup?, What do you commit to next?, When do you think you'll be done?, Do you have any blockers?
+24-Nov,1,2,Ziqi Zheng,Creating a basic main menu and user input menu GUI,Implement Oberservation GUI,In two days,There is no blockers in my part
+24-Nov,1,2,MingRen Liu,Creating background music and moving sound feature,Implement ranking system feature ,In three days,To get user information
+24-Nov,1,2,Jianxin Liu,Implement hints story and create frame for the visitor pattern,Finish the Visitor pattern and add hints button in the view,In two days,Need to compatible with other functions
+24-Nov,1,2,Sam Zhang,Implementing a way where the user can view the rules of the game,Try to create a GUI for the rules,two days,Finding a universal way for the user to open or render a PDF

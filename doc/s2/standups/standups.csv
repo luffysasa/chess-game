@@ -1,0 +1,13 @@
+Date, Sprint #, Standup #, Name, What did you work on since the last standup?, What do you commit to next?, When do you think you'll be done?, Do you have any blockers?
+30-Nov,2,1,Jianxin Liu,Finish the hint story using Strategy pattern,Connect visitor pattern with User,Two days,Current not
+30-Nov,2,1,Ziqi Zheng,Create a store GUI ,Enable user to set their preference,Two days,There is no blockers in my parts
+30-Nov,2,1,MingRen Liu,Redesign ranking System last one not function well,Keep working on ranking system,In 5 days,No blockers yet
+30-Nov,2,1,Sam Zhang,Implementing the game over screen for Human Vs Human,I will work on Human Vs Computer game over when we have the Human Vs Computer Board control system,In 4 days,My work requires a working board which is currently in progress for DEV-13.
+02-Dec,2,2,Jianxin Liu,Finish Connect visitor pattern with User,Finish the cell moves( handle),Two days,Everyone's coding is biased So need to find a way to fit
+02-Dec,2,2,Ziqi Zheng,Enable user to set their skin,A board GUI for Human Vs Human,Three days,There is no blockers in my parts
+02-Dec,2,2,MingRen Liu,Finished ranking system,GUI for Leaderboard,In two days,No blockers yet
+02-Dec,2,2,Sam Zhang,Implementing the game over screen for Human Vs Computer,The presentation slides,In 1 days,No current blockers
+04-Dec,2,3,Jianxin Liu,Finish the cell moves( handle),Try to use Strategy to make store system better,Two days,Current not
+04-Dec,2,3,Ziqi Zheng,Creating a board GUI for Human Vs Human,Implement all GUI,Two days,Requiring visitor
+04-Dec,2,3,MingRen Liu,GUI for leaderboard,Wrap up fix some errors,In one day,No blockers yet
+04-Dec,2,3,Sam Zhang,Creating presentation slides,Recording presentation,1/2 days,No current blockers

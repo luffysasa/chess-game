@@ -1,0 +1,5 @@
+Date, Sprint #, Standup #, Name, What did you work on since the last standup?, What do you commit to next?, When do you think you'll be done?, Do you have any blockers?
+22-Nov,1,1,Ziqi Zheng,Implement User class. Player can create new User account at the beginning and save in UserList File,I will work on Announcement feature and fix some bug on ,In two days,"Cannot test correctness, if there is no main menu."
+22-Nov,1,1,MingRen Liu,implement singleton pattern use for visitor mode feature,I will work on sound feature ,In two days,There is no blockers.
+22-Nov,1,1,Jianxin Liu,Implement strategy pattern and the hint button,I will made some correction to hint button,In two days ,"When clone board there is a error , the boardcopy have same reaction to the board."
+22-Nov,1,1,Sam Zhang,Creating a PDF for the rules of the game,I will create a way for the user to view the rules of the game,two days,No current blockers

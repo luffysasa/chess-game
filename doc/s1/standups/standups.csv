@@ -1,0 +1,13 @@
+﻿Date, Sprint #, Standup #, Name, What did you work on since the last standup?, What do you commit to next?, When do you think you'll be done?, Do you have any blockers?
+22-Nov,1,1,Ziqi Zheng,Implement User class. Player can create new User account at the beginning and save in UserList File,I will work on Announcement feature and fix some bug on ,In two days,"Cannot test correctness, if there is no main menu."
+22-Nov,1,1,MingRen Liu,implement singleton pattern use for visitor mode feature,I will work on sound feature ,In two days,There is no blockers.
+22-Nov,1,1,Jianxin Liu,Implement strategy pattern and the hint button,I will made some correction to hint button,In two days ,"When clone board there is a error , the boardcopy have same reaction to the board."
+22-Nov,1,1,Sam Zhang,Creating a PDF for the rules of the game,I will create a way for the user to view the rules of the game,two days,No current blockers
+24-Nov,1,2,Ziqi Zheng,Creating a basic main menu and user input menu GUI,Implement Oberservation GUI,In two days,There is no blockers in my part
+24-Nov,1,2,MingRen Liu,Creating background music and moving sound feature,Implement ranking system feature ,In three days,To get user information
+24-Nov,1,2,Jianxin Liu,Implement hints story and create frame for the visitor pattern,Finish the Visitor pattern and add hints button in the view,In two days,Need to compatible with other functions
+24-Nov,1,2,Sam Zhang,Implementing a way where the user can view the rules of the game,Try to create a GUI for the rules,two days,Finding a universal way for the user to open or render a PDF
+27-Nov,1,3,Sam Zhang,Creating a GUI for the rules,Creating a visual prompt for when Greedy agent is wokring,four days,I need a work board GUI and looking for a good way to let the user know that Greedy agent is computing.
+27-Nov,1,3,Ziqi Zheng,Creating a GUI for developer that allow developers to send message to all users and a GUI for users that allow user to view their information.,"Optimizing developer GUI and user GUI, and creating a basic view of board",in 2-3 days,There is no blockers in my current parts.
+27-Nov,1,3,MingRen Liu,Implement ranking feature,connect ranking feature with user data,In two days,Hard to test function because relate part didn't finished
+27-Nov,1,3,Jianxin Liu,Working on the Visitor pattern and find a way to improve the hints story,Finish hints story,Three days,Find visitor pattern a little hard to connect because some method are private.

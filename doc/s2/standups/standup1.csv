@@ -1,0 +1,5 @@
+Date, Sprint #, Standup #, Name, What did you work on since the last standup?, What do you commit to next?, When do you think you'll be done?, Do you have any blockers?
+30-Nov,2,1,Jianxin Liu,Finish the hint story using Strategy pattern,Connect visitor pattern with User,Two days,Current not
+30-Nov,2,1,Ziqi Zheng,Create a store GUI ,Enable user to set their preference,Two days,There is no blockers in my parts
+30-Nov,2,1,MingRen Liu,Redesign ranking System last one not function well,Keep working on ranking system,In 5 days,No blockers yet
+30-Nov,2,1,Sam Zhang,Implementing the game over screen for Human Vs Human,I will work on Human Vs Computer game over when we have the Human Vs Computer Board control system,In 4 days,My work requires a working board which is currently in progress for DEV-13.

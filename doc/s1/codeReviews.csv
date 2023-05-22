@@ -1,0 +1,5 @@
+Story Reviewed, Name, Reviewer, Pull Request Link, Brief Summary of Comments
+[DEV-22],Hints,Sam Zhang,https://github.com/UTMCSC207/assignment3-scoredfullmarks/pull/24,"The copy board did not undo what move before which makes the next move is wrong. Then the return cell did not return the best one."
+"[DEV-23], [DEV-24]",User GUI,MingRen Liu,https://github.com/UTMCSC207/assignment3-scoredfullmarks/pull/13,not work when user input is null
+[DEV-21],Sound,Ziqi Zheng,https://github.com/UTMCSC207/assignment3-scoredfullmarks/pull/18,It is better to change the sound when the progress of a game is changing.
+[DEv-27],Rule,Jianxin Liu,https://github.com/UTMCSC207/assignment3-scoredfullmarks/pull/26 https://github.com/UTMCSC207/assignment3-scoredfullmarks/pull/27,The PDF is in the wrong directory.

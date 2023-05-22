@@ -1,0 +1,5 @@
+Date, Sprint #, Standup #, Name, What did you work on since the last standup?, What do you commit to next?, When do you think you'll be done?, Do you have any blockers?
+04-Dec,2,3,Jianxin Liu,Finish the cell moves( handle),Try to use Strategy to make store system better,Two days,Current not
+04-Dec,2,3,Ziqi Zheng,Creating a board GUI for Human Vs Human,Implement all GUI,Two days,Requiring visitor
+04-Dec,2,3,MingRen Liu,GUI for leaderboard,Wrap up fix some errors,In one day,No blockers yet
+04-Dec,2,3,Sam Zhang,Creating presentation slides,Recording presentation,1/2 days,No current blockers

@@ -1,0 +1,9 @@
+UserID: testAccountOne
+IsVisiable: true
+GoldenCoin: 0
+Rank: Silver-1000
+MailBox: [Hello Welcome to ThreeMusketeers,gg,test message,test message]
+Win: 0
+Lose: 0
+CurrentSkin: Default
+Skins: []

@@ -1,0 +1,5 @@
+Story Reviewed, Name, Reviewer, Pull Request Link, Brief Summary of Comments
+[DEV-23],User Info,Sam Zhang,https://github.com/UTMCSC207/assignment3-scoredfullmarks/pull/48,The userlist does not have an input value causing the ableUser to break. Also UseroneStoreButton lines 46-57  and line 49-59 are repeated.
+[DEV-25],Leaderboard/LeaderboardGUI,Ziqi Zheng,https://github.com/UTMCSC207/assignment3-scoredfullmarks/pull/45,It does not link to the GUI for user to view this rank leader board
+[DEV-210],Store GUI,MingRen Liu,https://github.com/UTMCSC207/assignment3-scoredfullmarks/pull/46,"if user already have that skin,then it's unpurchasable"
+[DEV-15],Gameover,Jianxin Liu,https://github.com/UTMCSC207/assignment3-scoredfullmarks/pull/55,Did not detect if game is over when the board gets updated
